@@ -1,0 +1,5 @@
+{
+  "name": "PNG Color Changer",
+  "description": "An application to upload a PNG image and change the color of its non-transparent parts using a color picker.",
+  "requestFramePermissions": []
+}
